@@ -1,0 +1,6 @@
+/*微信小程序没有web的*(全部)通配符*/
+@import "./styles/font-awesome.wxss";
+@import "./styles/stylesheet.wxss";
+page,view,image,swiper,swiper-item,navigator,video{
+  box-sizing: border-box;
+}
